@@ -61,7 +61,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                com.example.assignment2gc200474646/com.example.assignment2gc200474646.HelloApplication
+                                com.example.assignment2gc200474646/com.example.assignment2gc200474646.Main
                             </mainClass>
                         </configuration>
                     </execution>
